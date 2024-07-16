@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9059441475",
+    "project_id": "liquidoperator-7702e",
+    "storage_bucket": "liquidoperator-7702e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9059441475:android:fd3988b99321e4bc96edf6",
+        "android_client_info": {
+          "package_name": "com.example.liquidop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpfagsOqCE0q87aZPOa1yf6K8T-vS9KAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
